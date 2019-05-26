@@ -1,6 +1,0 @@
-framework module Pods_ComparingSugars {
-  umbrella header "Pods-ComparingSugars-umbrella.h"
-
-  export *
-  module * { export * }
-}
